@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+✨ [armenian-legal.vercel.app](https://armenian-legal.vercel.app)
+\
+\
+\
 ⚡ work in progress
 - [tracker-labs.vercel.app](https://tracker-labs.vercel.app/)
 - [docs511.vercel.app](https://docs511.vercel.app/)
